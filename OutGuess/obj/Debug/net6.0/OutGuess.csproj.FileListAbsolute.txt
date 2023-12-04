@@ -1,0 +1,14 @@
+C:\Users\MCA\source\repos\OutGuess\bin\Debug\net6.0\OutGuess.exe
+C:\Users\MCA\source\repos\OutGuess\bin\Debug\net6.0\OutGuess.deps.json
+C:\Users\MCA\source\repos\OutGuess\bin\Debug\net6.0\OutGuess.runtimeconfig.json
+C:\Users\MCA\source\repos\OutGuess\bin\Debug\net6.0\OutGuess.dll
+C:\Users\MCA\source\repos\OutGuess\bin\Debug\net6.0\OutGuess.pdb
+C:\Users\MCA\source\repos\OutGuess\obj\Debug\net6.0\OutGuess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA\source\repos\OutGuess\obj\Debug\net6.0\OutGuess.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\OutGuess\obj\Debug\net6.0\OutGuess.AssemblyInfo.cs
+C:\Users\MCA\source\repos\OutGuess\obj\Debug\net6.0\OutGuess.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\OutGuess\obj\Debug\net6.0\OutGuess.dll
+C:\Users\MCA\source\repos\OutGuess\obj\Debug\net6.0\refint\OutGuess.dll
+C:\Users\MCA\source\repos\OutGuess\obj\Debug\net6.0\OutGuess.pdb
+C:\Users\MCA\source\repos\OutGuess\obj\Debug\net6.0\OutGuess.genruntimeconfig.cache
+C:\Users\MCA\source\repos\OutGuess\obj\Debug\net6.0\ref\OutGuess.dll
